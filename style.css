@@ -1,0 +1,76 @@
+
+.gradient-background {
+  background-color:#3A0519;
+  background-size: 180% 180%;
+  color:whitesmoke;
+}
+#title{
+  color:pink;
+  font-size: larger;
+  font-weight: 200;
+  font-weight: bolder ;
+}
+h1{
+    color:white;
+}
+.pic{
+    border-radius="50%";
+}
+#features{
+    display:block;
+}
+#features h2{
+      color:#3A0519 !important;
+}
+#skills h2{
+    color:#3A0519 !important;
+}
+#skills{
+    color: #85193C;
+}
+#skills h3{
+    color:#3A0519;
+}
+.icon-link{
+    color:#2c0612;
+    text-decoration-color: #3A0519;  /* changes underline color */
+}
+#contact h1{
+    color:#2c0612 !important;
+}
+#contact h2{
+    color:#85193C;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#contact p{
+    color:#3A0519;
+    padding-bottom: 20px;
+}
+#footer{
+    height: 250px;
+    background-color: #A53860;
+    text-decoration-color: #3A0519;
+}
+.footer-link{
+      color: white;  /* or any color you want */
+  text-decoration: none; /* removes underline */
+}
+.footer-text{
+    padding-top: 100px;
+}
+.nav-item{
+    padding-top:20px;
+    padding-right:20px;
+    font-size: larger;
+}
+#projects h2 {
+    color:#3A0519 !important;
+   padding-bottom: 200px;
+}
+#projects .container {
+  padding-top: 20px; /* Or margin-top */
+}
+.custom-margin{
+    margin-bottom:80px;
+}
